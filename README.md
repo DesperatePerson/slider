@@ -1,2 +1,2 @@
 # slider
-Slider on JavaScript
+[Slider](https://desperateperson.github.io/slider/) on JavaScript
